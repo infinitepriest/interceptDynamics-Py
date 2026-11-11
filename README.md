@@ -677,10 +677,11 @@ AI-based development tools were used to assist with debugging and documentation 
 ---
 
 # Author
+
 ### **Ayushman M.**
 
->LinkedIn: https://www.linkedin.com/in/aymisxx
+>LinkedIn: https://www.linkedin.com/in/infinitepriest
 
->GitHub: https://github.com/aymisxx
+>GitHub: https://github.com/infinitepriest
 
 ---
